@@ -75,3 +75,9 @@ bower_components/
 .grunt/
 src/vendor/
 dist/
+
+# Misc #
+########
+run_bmi_aorc
+z_trash
+z_old/
