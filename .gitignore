@@ -79,5 +79,5 @@ dist/
 # Misc #
 ########
 run_bmi_aorc
-z_trash
+z_trash/
 z_old/
